@@ -1,3 +1,3 @@
 #!/usr/bin/perl
 
-print "Hello world from perl !!";
+print "hello world from perl";
